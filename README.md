@@ -1,0 +1,1 @@
+This dataset contains Famous paintings and their artists. There are several csv files. We load the csv files in Jupyter notebook using python , clean and transform the data , load into sqlite database and write various queries to understand and analyze the data.
